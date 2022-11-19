@@ -1,6 +1,9 @@
+feature/next-awesome-thing
 #This is an awesome python script
-<<<<<<< HEAD
 print('Howdy, World!')
-=======
+
+
+
+ feature/enhancement-2
 print('Hajimemasathi sekai!')
->>>>>>> feature/enhancement-2
+
